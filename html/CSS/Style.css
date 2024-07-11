@@ -7,7 +7,7 @@ body {
 
 .top-bar {
     length: block;
-    background-color: #3498db;
+    background-color: #red;
     padding: 0;
     box-sizing: border-box;
 }
